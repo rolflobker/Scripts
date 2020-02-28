@@ -1,0 +1,3 @@
+https://superuser.com/questions/805621/test-network-ports-faster-with-powershell
+
+
